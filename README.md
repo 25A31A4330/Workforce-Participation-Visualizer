@@ -17,4 +17,4 @@ This project supports the idea of equal opportunities for all genders in workpla
 ✨ Features ✅ Reads workforce data from CSV file ✅ Displays male and female participation percentages ✅ Generates ASCII bar charts ✅ Colorful console output ✅ Calculates gender gap automatically ✅ Simple and beginner-friendly C++ code ✅ Easy to customize with new datasets
 
 Team Members
- R. mani deepika . A. manali . R. lahari . D. Srikanth . D. Gowri charan . P. Satya sai verra varun teja
+ R. mani deepika  A. manali  R. lahari . D. Srikanth  D. Gowri charan  P. Satya sai verra varun teja
